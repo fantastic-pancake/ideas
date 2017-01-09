@@ -37,3 +37,6 @@
    - e.g.
     - hours of lights on per day/week
     - electric or gas usage per day/week
+
+* Other ideas:
+- https://medium.freecodecamp.com/6-absurd-ideas-for-building-your-first-web-application-24afca35e519#.t2depc8mq
